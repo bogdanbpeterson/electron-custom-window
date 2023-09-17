@@ -1,0 +1,22 @@
+{
+  "name": "electron-custom-window",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bogdanbpeterson/electron-custom-window.git"
+  },
+  "author": "Bogdan B Peterson <github@bogdanbpeterson.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bogdanbpeterson/electron-custom-window/issues"
+  },
+  "homepage": "https://github.com/bogdanbpeterson/electron-custom-window#readme",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
